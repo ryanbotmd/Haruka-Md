@@ -22,7 +22,7 @@ ${mundur}
  • Upload : ${upload}
  • Downloads : ${download}
 
-*BOT INFO*
+*BOT INFO | IG : @stefanusryan_bams*
  • Creator : ${ownerName}
  • Bot Name : ${botName}
  • Time : ${jam}
